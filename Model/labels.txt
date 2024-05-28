@@ -1,0 +1,10 @@
+0 call
+1 ILY
+2 nice
+3 peace
+4 punch
+5 spiderman
+6 thumbsup
+7 thumbsdown
+8 C
+9 gun

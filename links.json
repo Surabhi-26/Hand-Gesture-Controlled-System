@@ -1,0 +1,11 @@
+{
+    "Links": {
+        "Brave": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe",
+        "Exel": "C:\\Program Files (x86)\\Microsoft Office\\root\\Office16\\EXCEL.EXE",
+        "Ppt": "C:\\Program Files (x86)\\Microsoft Office\\root\\Office16\\POWERPNT.EXE",
+        "Word": "C:\\Program Files (x86)\\Microsoft Office\\root\\Office16\\WINWORD.EXE",
+        "File": "C:\\Windows\\explorer.exe",
+        "Notepad": "C:\\Windows\\System32\\notepad.exe",
+        "Cmd": "os.system('cmd')"
+    }
+}
